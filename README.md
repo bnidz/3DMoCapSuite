@@ -11,7 +11,8 @@
 ## INSTALLATION
 
 * Download the zip from this repository
-* Follow the screenshot bellow in Blender -> Edit -> Preferences -> Addons -> Install -> select the .zip -> Make sure the checkboc is checked
+* Follow the screenshot bellow in Blender 1. Edit 2. Preferences 3. Addons 4. Install 
+* then select the .zip -> Make sure the checkboc is checked
 ![basic_install](https://user-images.githubusercontent.com/31888418/168494888-5729e649-5470-430f-a990-cf2a811f055c.png)
 
 ## USAGE
