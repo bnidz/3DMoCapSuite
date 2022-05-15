@@ -15,6 +15,10 @@
 ![basic_install](https://user-images.githubusercontent.com/31888418/168494888-5729e649-5470-430f-a990-cf2a811f055c.png)
 
 ## USAGE
+![Screenshot 2022-05-16 at 1 02 08](https://user-images.githubusercontent.com/31888418/168495701-77147539-ee65-4f47-b8c5-f69bba1c39b3.png)
+
+
+
 
 
 ## CLIENT / iOS APP
