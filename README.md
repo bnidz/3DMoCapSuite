@@ -1,4 +1,4 @@
-# 3DMoCapSuite
+# 3D MoCap Suite - Blender Addon
 3D MoCap Suite - iOS App's Blender Addon Repository
 
 ## FEATURES
