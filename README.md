@@ -39,4 +39,5 @@
 
 
 ## Known issues:
-* Close connection from the iOS app first, otherwise the used port can be left stuck. SOLUTION: use next PORT with + and start have the START going again
+* Close connection from the iOS app first, otherwise the used port can be left stuck. 
+ * SOLUTION: use next PORT with + and start have the START going again
