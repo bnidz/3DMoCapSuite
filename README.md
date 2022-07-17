@@ -10,7 +10,7 @@
 
 ## INSTALLATION
 
-* Download the zip from this repository (MoCap_Suite_A02.zip)
+* Download the zip from this repository [MoCap_Suite_A02.zip](https://github.com/bnidz/3DMoCapSuite/blob/main/MoCap_Suite_A02.zip)
 * Follow the screenshot bellow in Blender 1. Edit 2. Preferences 3. Addons 4. Install 
 * After that select the .zip file you downloaded and Make sure the checkbox for the addon is checked
 
@@ -20,7 +20,7 @@
  
 ![Screenshot 2022-05-16 at 1 02 08](https://user-images.githubusercontent.com/31888418/168495701-77147539-ee65-4f47-b8c5-f69bba1c39b3.png)
 
-* Download the Defaul .Blend file from this repository and open it on your blender
+* Download the Defaul [.Blend file](https://github.com/bnidz/3DMoCapSuite/blob/main/3DMoCapSuite_Default_BlendFile_A001.blend) from this repository and open it on your blender
 * Have the addon installed and on the object mode, press N to open the sidebar and select the addon tab
 * Select the correct objects for the head and the camera 
 * Assign correct values for the IP and PORT fields
