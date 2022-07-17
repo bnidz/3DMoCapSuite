@@ -10,6 +10,7 @@
 
 ## INSTALLATION
 
+* Minimum Blender version 3.2.0 and up 
 * Download the zip from this repository [MoCap_Suite_A02.zip](https://github.com/bnidz/3DMoCapSuite/blob/main/MoCap_Suite_A02.zip)
 * Follow the screenshot bellow in Blender 1. Edit 2. Preferences 3. Addons 4. Install 
 * After that select the .zip file you downloaded and Make sure the checkbox for the addon is checked
@@ -29,13 +30,10 @@
 * Press RECORD - to start recording shapekeys, you have to have timeline running :)
 
 ## CLIENT / iOS APP
-
-
-[* You can download the iOS App for free ](https://apps.apple.com/us/app/mocap-suite/id1628689936)
+* [You can download the iOS App for free ](https://apps.apple.com/us/app/mocap-suite/id1628689936)
 * Requires Iphone / iPad with FaceID cabapilities 
 
 ## ACKNOWLEDGEMENTS
-
 * Latest version Sun 17. Jul / 2022 HotMinute
 * Full Body motion tracking update coming soon!
 
