@@ -38,6 +38,8 @@
 * Full Body motion tracking update coming soon!
 
 
+
 ## Known issues:
 * Close connection from the iOS app first, otherwise the used port can be left stuck. 
  * SOLUTION: use next PORT with + and start have the START going again
+ * IF using just head mesh, you dont have to have the "Rig Empty" Assigned. But if you have your own rig setup, you can assign an empty object, and it will follow the head movements
