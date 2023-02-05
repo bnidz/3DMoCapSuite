@@ -36,7 +36,6 @@
 
 ## Known issues:
 * IK controls disappear after using the IK button
-- workaround: use the reset character position button to respawn IK's
+ - workaround: use the reset character position button to respawn IK's
 * with lower end devices having multiple avatar changes can cause fps drop, but bootin the app should help
-- Fix for this coming in the next update
-
+ - Fix for this coming in the next update
