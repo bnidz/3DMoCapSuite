@@ -4,9 +4,9 @@
 ## FEATURES
 
 * Track 52 - iOS ARKIT native blendshapes in real time
-* Track Head object rotation 
-* Track Head object position
-* Track Client APP Camera position and position
+* Full body IK controls (touch from iOS app)
+* Live Record
+* Virtual camera - works identically in addon and in app (touch controls)
 
 ## INSTALLATION
 
