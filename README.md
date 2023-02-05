@@ -20,12 +20,10 @@
 ## USAGE
  <img width="364" alt="app_ui_" src="https://user-images.githubusercontent.com/31888418/216851602-b69f9b3f-eb64-4d94-9722-fc396d29d639.png">
 
-* Download the Defaul [.Blend file](https://github.com/bnidz/3DMoCapSuite/blob/main/3DMoCapSuite_Default_BlendFile_A001.blend) from this repository and open it on your blender
 * Have the addon installed and on the object mode, press N to open the sidebar and select the addon tab
-* Select the correct objects for the head and the camera 
-* Assign correct values for the IP and PORT fields
-* After everything is set, you can press START to Start UDP server on the selected port
-* You can change values of the checkboxes while the server is running
+* Assign correct values for the IP and PORT fields (APP actually should get your address automaticly)
+* Input the same values that you have in the addon to the iOS MoCap Suite App and press START 
+* After everything is set, you can press START from the Addon and you should see the same character movements in Blender :)
 * Press RECORD - to start recording shapekeys, you have to have timeline running :)
 
 ## CLIENT / iOS APP
@@ -33,12 +31,12 @@
 * Requires Iphone / iPad with FaceID cabapilities 
 
 ## ACKNOWLEDGEMENTS
-* Latest version Sun 17. Jul / 2022 HotMinute
+* Latest version Sun 6. Feb / 2023 HotMinute
 * Full Body motion tracking update coming soon!
 
-
-
 ## Known issues:
-* Close connection from the iOS app first, otherwise the used port can be left stuck. 
- * SOLUTION: use next PORT with + and start have the START going again
- * IF using just head mesh, you dont have to have the "Rig Empty" Assigned. But if you have your own rig setup, you can assign an empty object, and it will follow the head movements
+* IK controls disappear after using the IK button
+- workaround: use the reset character position button to respawn IK's
+* with lower end devices having multiple avatar changes can cause fps drop, but bootin the app should help
+- Fix for this coming in the next update
+
