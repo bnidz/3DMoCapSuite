@@ -19,10 +19,12 @@
 
 ## USAGE
  <img width="364" alt="app_ui_" src="https://user-images.githubusercontent.com/31888418/216851602-b69f9b3f-eb64-4d94-9722-fc396d29d639.png">
+<img width="405" alt="app_default_model_" src="https://user-images.githubusercontent.com/31888418/216852764-70a4ae23-8ba7-4f9f-9b8e-a4b637feec57.png">
 
 * Have the addon installed and on the object mode, press N to open the sidebar and select the addon tab
 * Assign correct values for the IP and PORT fields (APP actually should get your address automaticly)
-* Input the same values that you have in the addon to the iOS MoCap Suite App and press START 
+* Input the same values that you have in the addon to the iOS MoCap Suite App and press START
+* Select Character's Armature in Object mode
 * After everything is set, you can press START from the Addon and you should see the same character movements in Blender :)
 * Press RECORD - to start recording shapekeys, you have to have timeline running :)
 
@@ -36,6 +38,6 @@
 
 ## Known issues:
 * IK controls disappear after using the IK button
- -- workaround: use the reset character position button to respawn IK's
+ - workaround: use the reset character position button to respawn IK's
 * with lower end devices having multiple avatar changes can cause fps drop, but bootin the app should help
- -- Fix for this coming in the next update
+ - Fix for this coming in the next update
