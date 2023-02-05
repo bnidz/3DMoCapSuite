@@ -18,9 +18,7 @@
 ![basic_install](https://user-images.githubusercontent.com/31888418/168494888-5729e649-5470-430f-a990-cf2a811f055c.png)
 
 ## USAGE
- 
-![Screenshot 2022-05-16 at 1 02 08](https://user-images.githubusercontent.com/31888418/168495701-77147539-ee65-4f47-b8c5-f69bba1c39b3.png)
-<img width="443" alt="Screenshot 2023-02-06 at 1 04 13" src="https://user-images.githubusercontent.com/31888418/216851190-33576003-0c1e-4375-8333-3a924645e0f6.png">
+ <img width="364" alt="app_ui_" src="https://user-images.githubusercontent.com/31888418/216851602-b69f9b3f-eb64-4d94-9722-fc396d29d639.png">
 
 * Download the Defaul [.Blend file](https://github.com/bnidz/3DMoCapSuite/blob/main/3DMoCapSuite_Default_BlendFile_A001.blend) from this repository and open it on your blender
 * Have the addon installed and on the object mode, press N to open the sidebar and select the addon tab
