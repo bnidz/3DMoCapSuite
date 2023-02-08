@@ -11,7 +11,7 @@
 ## INSTALLATION
 
 * Minimum Blender version 2.8.0 and up 
-* Download the zip from this repository [MoCapSuite_B1.zip](https://github.com/bnidz/3DMoCapSuite/blob/main/MoCapSuite_B1.zip)
+* Download the zip from this repository [MoCapSuite_B11.zip](https://github.com/bnidz/3DMoCapSuite/blob/main/MoCapSuite_B11.zip)
 * Follow the screenshot bellow in Blender 1. Edit 2. Preferences 3. Addons 4. Install 
 * After that select the .zip file you downloaded and Make sure the checkbox for the addon is checked
 
