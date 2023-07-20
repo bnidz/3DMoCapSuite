@@ -48,3 +48,5 @@ USAGE:
 
 ## Known issues:
 -Custom characters might have wierd IK helper problems, but it's going to be fixed in the next update of the iOS APP
+-Character uploads to APP BUG:
+    If connection fails, you have to boot Blender
