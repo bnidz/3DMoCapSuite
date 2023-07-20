@@ -4,6 +4,14 @@
 ## FEATURES
 
 * Upload and download Custom Characters to MoCap Suite iOS APP!
+USAGE:
+  - start upload customChar from Blender ( button in iOS APP )
+  - paste the IP to Blender addon, select same port
+  - Select character AND armature in objectmode and press UPLOAD
+  - Character uploads to APP
+    BUG:
+      - If connection fails, you have to boot Blender
+
 * Track 52 - iOS ARKIT native blendshapes in real time
 * Full body IK controls (touch from iOS app)
 * Live Record
