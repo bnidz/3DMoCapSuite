@@ -3,6 +3,7 @@
 
 ## FEATURES
 
+* Upload and download Custom Characters to MoCap Suite iOS APP!
 * Track 52 - iOS ARKIT native blendshapes in real time
 * Full body IK controls (touch from iOS app)
 * Live Record
@@ -11,7 +12,8 @@
 ## INSTALLATION
 
 * Minimum Blender version 2.8.0 and up 
-* Download the zip from this repository [MoCapSuite.zip](https://github.com/bnidz/3DMoCapSuite/blob/main/MoCap%20Suite.zip)
+* Download the zip from this repository [MoCapSuite_CustomChar.zip](https://github.com/bnidz/3DMoCapSuite/blob/main/MoCapSuite_CustomChar.zip
+)
 * Follow the screenshot bellow in Blender 1. Edit 2. Preferences 3. Addons 4. Install 
 * After that select the .zip file you downloaded and Make sure the checkbox for the addon is checked
 
@@ -33,11 +35,8 @@
 * Requires Iphone / iPad with FaceID cabapilities 
 
 ## ACKNOWLEDGEMENTS
-* Latest version Sun 6. Feb / 2023 HotMinute
-* Full Body motion tracking update coming soon!
+* Latest version Thu 20. Jul / 2023 HotMinute
+* Full Body motion tracking update live! Check Out MocapSuite.com
 
 ## Known issues:
-* IK controls disappear after using the IK button
- - workaround: use the reset character position button to respawn IK's
-* with lower end devices having multiple avatar changes can cause fps drop, but bootin the app should help
- - Fix for this coming in the next update
+-Custom characters might have wierd IK helper problems, but it's going to be fixed in the next update of the iOS APP
