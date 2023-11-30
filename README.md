@@ -5,6 +5,8 @@
 
 * Upload and download Custom Characters to MoCap Suite iOS APP!
 USAGE:
+  - Create and modify custom 3D characters in app through ReadyPlayerMe avatar creator
+  - fully customise and sync between Blender addon
   - start upload customChar from Blender ( button in iOS APP )
   - paste the IP to Blender addon, select same port
   - Select character AND armature in objectmode and press UPLOAD
@@ -14,6 +16,7 @@ USAGE:
 
 * Track 52 - iOS ARKIT native blendshapes in real time
 * Full body IK controls (touch from iOS app)
+* Full body webcam track from mocapsuite.com
 * Live Record
 * Virtual camera - works identically in addon and in app (touch controls)
 
@@ -43,10 +46,9 @@ USAGE:
 * Requires Iphone / iPad with FaceID cabapilities 
 
 ## ACKNOWLEDGEMENTS
-* Latest version Thu 20. Jul / 2023 HotMinute
+* Latest version Thu 30. Nov / 2023 HotMinute
 * Full Body motion tracking update live! Check Out MocapSuite.com
 
 ## Known issues:
 -Custom characters might have wierd IK helper problems, but it's going to be fixed in the next update of the iOS APP
--Character uploads to APP BUG:
-    If connection fails, you have to boot Blender
+
